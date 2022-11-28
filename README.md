@@ -1,7 +1,7 @@
 # FinalTesteDeQualidade
 
 ## Classe Principal
-![img](/TQS/TrabFinal/imgs/class_teste.pngimgs)
+![img](/TQS/TrabFinal/imgs/class_teste.png)
 
 
 ## !!Seguir a ordem dos testes decima para baixo conforme as imagens!!
