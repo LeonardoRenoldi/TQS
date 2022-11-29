@@ -23,3 +23,5 @@ Pesquisar a Palavra marte no mapa de lojas no site americanas.
 Pesquisar a palavra sapopema no mapa de lojas no site americanas e capturar o resultado da quantidade de lojas.
 ![img](/TQS/TrabFinal/imgs/Teste_Sapopema.png)
 
+OBS: quando digo ordem dos testes, estou me referindo a ordem em que as funções são chamadas.
+
