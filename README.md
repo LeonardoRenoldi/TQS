@@ -24,4 +24,5 @@ Pesquisar a palavra sapopema no mapa de lojas no site americanas e capturar o re
 ![img](/TQS/TrabFinal/imgs/Teste_Sapopema.png)
 
 OBS: quando digo ordem dos testes, estou me referindo a ordem em que as funções são chamadas.
+OBS-2: No system.setProperty colar o caminho  de onde você colocou o seu chromedriver.
 
